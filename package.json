@@ -4,7 +4,9 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start":"nodemon server.js",
+    "build":"npm i"
    
   },
   "author": "\"jaidevdileep\"",
